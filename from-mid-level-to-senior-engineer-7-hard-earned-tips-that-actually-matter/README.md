@@ -75,7 +75,7 @@ Don’t just answer technical questions. Ask product questions. Raise risks earl
 
 There’s no single checklist to becoming a senior engineer — but if you consistently **own problems, think holistically, mentor actively, and communicate clearly,** you'll find yourself operating at that level before the title comes. 
 
-And when the time comes, you won’t need to ask for the role — you’ll already be doing it. 
+And when the time comes, you won’t need to ask for the role — **you’ll already be doing it.** 
 
 
 
